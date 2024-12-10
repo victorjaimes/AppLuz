@@ -19,3 +19,4 @@ function calcular_Kwh(){
     document.getElementById('pago').innerHTML = monto_pagar || 0;
     document.getElementById('restante').innerHTML = redondear((parseFloat(total_mes) - monto_pagar));
 }
+safasf
